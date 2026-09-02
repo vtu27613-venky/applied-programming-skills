@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/vtu27613-venky/applied-programming-skills/tree/master/0876-middle-of-the-linked-list) |
+## Array
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/vtu27613-venky/applied-programming-skills/tree/master/1672-richest-customer-wealth) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/vtu27613-venky/applied-programming-skills/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->

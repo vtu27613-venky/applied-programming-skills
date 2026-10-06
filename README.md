@@ -73,4 +73,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu27613-venky/applied-programming-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vtu27613-venky/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
+## Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/vtu27613-venky/applied-programming-skills/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/vtu27613-venky/applied-programming-skills/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/vtu27613-venky/applied-programming-skills/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/vtu27613-venky/applied-programming-skills/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->

@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu27613-venky/applied-programming-skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0704-binary-search](https://github.com/vtu27613-venky/applied-programming-skills/tree/master/0704-binary-search) |
 | [1672-richest-customer-wealth](https://github.com/vtu27613-venky/applied-programming-skills/tree/master/1672-richest-customer-wealth) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu27613-venky/applied-programming-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/vtu27613-venky/applied-programming-skills/tree/master/0704-binary-search) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu27613-venky/applied-programming-skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 <!---LeetCode Topics End-->

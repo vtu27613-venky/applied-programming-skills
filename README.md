@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu27613-venky/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu27613-venky/applied-programming-skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0704-binary-search](https://github.com/vtu27613-venky/applied-programming-skills/tree/master/0704-binary-search) |
 | [1672-richest-customer-wealth](https://github.com/vtu27613-venky/applied-programming-skills/tree/master/1672-richest-customer-wealth) |
@@ -41,5 +42,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu27613-venky/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu27613-venky/applied-programming-skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
+## Hash Table
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu27613-venky/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu27613-venky/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu27613-venky/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu27613-venky/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu27613-venky/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu27613-venky/applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
